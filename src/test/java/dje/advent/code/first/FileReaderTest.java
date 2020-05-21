@@ -1,6 +1,8 @@
 package dje.advent.code.first;
 
 import static org.assertj.core.api.Assertions.*;
+
+import dje.advent.code.first.FileReader;
 import org.junit.jupiter.api.Test;
 
 import java.io.IOException;
